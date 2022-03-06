@@ -1,7 +1,7 @@
 -Hi, I’m @Mr-Kashi
-- 👀 I’m interested in programming bots and making games
-- 🌱 I’m currently learning discord.js, web development.
-- 💞️ I’m looking to collaborate on nothing yet
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning how to use git and Godot
+- 💞️ I’m not looking to collaborate yet
 - 📫 How to reach me ...
 
 <!---
